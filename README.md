@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @LukasBuchner
 - 👀 I’m interested in automation engineering
-- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on HRC / visual DSLs...
 - 📫 How to reach me ...
 
